@@ -3,10 +3,12 @@
 **Author:** Aldo Pilers  
 **Stack:** Python 3.10+, Bash  
 **Purpose:** Scan a host for open ports, identify risky services, flag misconfigurations against security baselines, and generate a structured JSON audit report. Includes a companion Bash script for live auth log monitoring.
+<img width="1478" height="614" alt="Screenshot 2026-04-27 101211" src="https://github.com/user-attachments/assets/0559ae46-d9de-4a67-bba7-19ee9c937b91" />
 
 ---
 
 ## What This Does
+<img width="1511" height="501" alt="Screenshot 2026-04-27 101254" src="https://github.com/user-attachments/assets/cfe18e01-6043-4e79-b27c-b85384700a38" />
 
 | Component | File | What it does |
 |-----------|------|--------------|
